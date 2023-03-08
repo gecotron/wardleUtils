@@ -1,0 +1,6 @@
+# packages
+*.jar
+*.tape
+# directories
+.vscode/
+target/
